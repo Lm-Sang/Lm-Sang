@@ -22,7 +22,7 @@
   Hi, I'm Sang, a passionate software developer.<br/><br/>
   🎓 I am studying at <b>The University of Da Nang - Da Nang University of Science and Technology</b><br/>
   🌐 I also work on web development projects<br/>
-  📫 How to reach me: <a href="mailto:minhsangle.contact@gmail.com">YOUR_EMAIL@gmail.com</a>
+  📫 How to reach me: <a href="mailto:minhsangle.contact@gmail.com">minhsangle.contact@gmail.com</a>
 </p>
 
 <hr />
