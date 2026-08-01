@@ -1,16 +1,47 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Lê Minh Sang</h1>
 
-<!--
-**Lm-Sang/Lm-Sang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Lm-Sang&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://facebook.com/minhsangle2310" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/gnas_lms/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/lm-sang/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<hr />
+
+<p align="center">
+  Hi, I'm Sang, a passionate software developer.<br/><br/>
+  🎓 I am studying at <b>The University of Da Nang - Da Nang University of Science and Technology</b><br/>
+  🌐 I also work on web development projects<br/>
+  📫 How to reach me: <a href="mailto:minhsangle.contact@gmail.com">YOUR_EMAIL@gmail.com</a>
+</p>
+
+<hr />
+
+<h3 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,dart,html,css,js,java,dotnet,bootstrap,flutter,nodejs,firebase,mongodb,mysql,git,github,unity" />
+</p>
+
+<hr />
+
+<h3 align="center">⚡ Stats ⚡</h3>
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lm-Sang&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=false" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lm-Sang&layout=compact&theme=dark&hide_border=false" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Lm-Sang&theme=dark&hide_border=false" alt="GitHub Streak" />
+</p>
